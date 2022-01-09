@@ -1,0 +1,12 @@
+[package]
+name = "player"
+version = "0.1.0"
+description = "A player basic component library"
+edition = "2015"
+authors = ["qiuyanlong2016@gamil.com"]
+license = "MIT OR Apache-2.0" 
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
